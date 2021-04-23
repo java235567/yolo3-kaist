@@ -1,0 +1,7 @@
+classes= 1
+train  = labels/train_night.txt
+valid  = labels/test_night.txt
+names = data/kaist_person.names
+backup = backup
+logfile = backup/savelog.txt
+
